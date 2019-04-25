@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- Konsisten untuk belajar code dari youtube sandhika galih
+- Membuat platform untuk pengelolaan video
+- Membuat form diskusi
