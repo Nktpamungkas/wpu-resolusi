@@ -6,6 +6,7 @@ RENCANA KONTEN WPU
   * belajar dari workshop
   * belajar dari youtube sandika galih
 - CODEIGNITER
+- Struktur data dasar
 - Javascript
- * Freamwork javascript
-  ^ React
+ *Freamwork Javascript
+  ^ vue
