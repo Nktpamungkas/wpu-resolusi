@@ -1,0 +1,7 @@
+RENCANA KONTEN WPU
+- C# 
+- ASP.NET
+  * belajar sama dwi suderajat, ajarin setting awalnya gimana
+- LARAVEL
+  * belajar dari workshop
+- CODEIGNITER
