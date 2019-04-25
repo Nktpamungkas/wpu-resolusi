@@ -4,4 +4,6 @@ RENCANA KONTEN WPU
   * belajar sama dwi suderajat, ajarin setting awalnya gimana
 - LARAVEL
   * belajar dari workshop
+  * belajar dari youtube sandika galih
 - CODEIGNITER
+- Struktur data dasar
