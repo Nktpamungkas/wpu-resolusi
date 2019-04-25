@@ -7,3 +7,6 @@ RENCANA KONTEN WPU
   * belajar dari youtube sandika galih
 - CODEIGNITER
 - Struktur data dasar
+- Javascript
+ *Freamwork Javascript
+  ^ vue
